@@ -1,1 +1,2 @@
 Databazova aplikacia
+toto je anotacia
